@@ -2,10 +2,10 @@
 ## Life cycle of a project 
 
 Business problem \n
-Uploading data 
-Cleaning data  
-Model Creation 
-Creating a flask  web-app
+Uploading data \n
+Cleaning data  \n
+Model Creation \n
+Creating a flask  web-app\n
 
 
 # CHALLANGES FACED ON PROJECT 
