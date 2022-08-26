@@ -1,10 +1,10 @@
 # Fradulent-Transcations
 ## Life cycle of a project 
 
-Business problem
-Uploading data 
-Cleaning data 
-Model Creation 
+Business problem/n
+Uploading data /n
+Cleaning data /n 
+Model Creation /n 
 Creating a flask  web-app
 
 
