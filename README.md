@@ -21,5 +21,10 @@ then install the requriments.txt file pip install -r requriments.txt
 after the requriments are installed successfully Then run the appy by 
 app.py 
 
+# WEB-APP
+
+
+Machine Learning App with Flask 
+
 
 
