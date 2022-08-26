@@ -28,3 +28,4 @@ Machine Learning App with Flask
 
 
 
+![Picture1](https://user-images.githubusercontent.com/95628854/186945892-f952cd3c-65b5-42f2-8492-c34332ab2f37.png)
